@@ -7,7 +7,7 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var pg = require('pg');
-var knex = require('../db/knex');
+var knex = require('./db/knex');
 
 var index = require('./routes/index');
 var users = require('./routes/users');
