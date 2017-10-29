@@ -1,7 +1,7 @@
 // <!-- Set up the path for the initial page view -->
 
   var _hsq = window._hsq = window._hsq || [];
-  _hsq.push(['setPath', 'http://localhost:3000']);
+  _hsq.push(['setPath', 'https://hubspotdemopageviews.herokuapp.com/']);
 
 
 // <!-- Load the HubSpot tracking code -->
